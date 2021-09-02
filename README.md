@@ -1,5 +1,7 @@
 # Memories
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01cf3544-2461-47ed-b510-e731e84386f2/deploy-status)](https://app.netlify.com/sites/moise-memories/deploys)
+
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
 ## Introduction
